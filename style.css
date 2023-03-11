@@ -1,8 +1,8 @@
 body {
-    background-image: url("https://cdn.pixabay.com/photo/2020/09/22/18/15/passenger-5593947__340.jpg");
+    background-image: url("https://cdn.pixabay.com/photo/2016/06/16/09/12/cat-1460929__340.png");
     background-size: cover;
     background-repeat: no-repeat;
-    font-family:  'Segoe UI', 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     font-weight: bold;
     text-align: center;
 }
