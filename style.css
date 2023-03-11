@@ -1,6 +1,7 @@
 body {
     background-image: url("https://cdn.pixabay.com/photo/2020/09/22/18/15/passenger-5593947__340.jpg");
     background-size: cover;
+    background-repeat: no-repeat;
     font-family:  'Segoe UI', 'Open Sans', 'Helvetica Neue', sans-serif;
     font-weight: bold;
     text-align: center;
